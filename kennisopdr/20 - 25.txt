@@ -1,0 +1,38 @@
+1.	Conversion is wanneer je het type van een variable verandert, en coercion is wanneer JavaScript het type verandert wanneer het moet werken met variables van andere types.
+2.	Number()
+3.	String()
+4.	43
+5.	-12
+6.	2512
+7.	37
+8.	5512
+9.	22
+10.	5512
+11.	Values die "false" worden wanneer ze converted zijn naar boolean.
+12.	Values die "true" worden wanneer ze converted zijn naar boolean.
+13.	Niet waar!
+14.	Niet waar!
+15.	Niet waar!
+16.	Waar!
+17.	Niet waar!
+18.	Waar!
+19.	Niet waar!
+20.	Niet waar!
+21.	Waar!
+22.	== vergelijkt de value, en checkt ook of de value overeenkomt na type coercion. === is strenger, het type moet hetzelfde zijn.
+23.	Ok...
+24.	Het begin van het begin
+25.	Het begin van het begin - nog steeds
+26.	Ja
+27.	Ja
+28.	Ja
+29.	Ja
+30.	Nee
+31.	! is een NOT operator, en maakt vaan een true een false en andersom. if(variable) returned false als de variable true is en andersom.
+32.	true
+33.	true
+34.	true
+35.	You do something you like, probably in the public sector!
+36.	You do something you like, probably in the public sector!
+37.	I want JUNKFOOD!
+38.	De console.log lines missen de ; aan het einde.

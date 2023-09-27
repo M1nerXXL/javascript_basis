@@ -1,0 +1,25 @@
+1.	Een switch statement is vergelijkbaar met een if statement. Je kan een variable aangeven en bepaalde code uitvoeren afhankelijk van de value.
+2.	Een value die aangegeven wordt in code die normaal wordt gegeven door een user.
+3.	Als je break vergeet, zal de code onder de volgende voorwaarde ook toegepast worden bij de voorwaarde ervoor.
+
+	case 1:
+	[code 1]
+	case 2:
+	[code 2]
+
+	als de value 1 is wordt code 1 en 2 uitgevoerd.
+4.	Konijn!
+5.	Konijn!
+6.	Er verschijnt niets in de console.
+7.	Konijn!
+	Koe!
+	Vos!
+8.	Koe!
+	Vos!
+9.	Vos!
+10.	Vos!
+11.	Vos!
+12.	Konijn!
+13.	Expressions zijn values die gebruikt worden door statements om dingen te laten gebeuren.
+14.	Het is een compacte manier om een voorwaarde te hebben, vergelijkbaar met een if statement.
+	numberVariable = 18 ? console.log("The value is 18.") : console.log("The value is not 18.");

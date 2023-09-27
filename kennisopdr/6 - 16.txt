@@ -1,0 +1,48 @@
+1, 2.	Javascript is een programmeertaal verantwoordelijk voor interactiviteit en dynamiek in een website.
+3.	Dat het abstracter is en makkelijk is om te lezen, het laat details over aan de computer zodat een developer zich geen zorgen erover hoeft te maken.
+4.	Een webapplicatie is een volledige applicatie die runt in de browser.
+5.	ES6 in 2015.
+6.	Door middel van het <script> element.
+7.	Een "value" is de waarde van een variable, zoals "true" in een boolean of "284" in een int.
+8.	Een variable is een stuk data wat gedifinieerd, veranderd en gebruikt kan worden.
+9.	De naam van een variable waarmee je gebruik kan maken van een variable. Geeft ook context over wat een bepaalde variable inhoudt.
+10.	const robinHeight = 24;
+	Hier wordt een variable gecreëerd waar de value 24 is en de variable naam "robinHeight" is.
+11.	een conventie is een manier waarop dingen normaal worden gedaan, gezien als de standaard.
+	In programmeren is het bepaalde regels volgen voor logische, makkelijk te lezen code, maar niet veel impact hebben op het resultaat.
+	In javascript is dit bijvoorbeeld om variables standaard een const te maken tenzij een let nodig is.
+12.	A
+13.	C
+14.	Een fout in de manier waarop de code geschreven is waardoor de code niet uitgevoerd kan worden,
+	bijvoorbeeld een typfout in "const" waardoor je met "xonst" eindigt.
+15.	Een fout in de manier waarop de code geschreven is waardoor de code wel uitgevoerd wordt maar niet het gewenste resultaat oplevert,
+	zoals een verkeerd nummer te gebruiken in een berekening.
+16.	Het verschil is dat een syntax error niet uitgevoerd kan worden een semantic error wel.
+17.	Het type data wat een variable is, zoals een boolean (true/false) of string (stuk text).
+18.	Uitleg, geef uitleg over de code die je heb staan.
+	Context, geef kopjes voor stukken code die aangeeft waar de code verantwoordelijk voor is.
+	Deactiveren, om wat code te deactiveren zodat het niet uitgevoerd wordt zonder het te verwijderen.
+19.	bij console.log("herder") wordt het resultaat in de console "herder", en bij console.log(herder) wordt het resultaat de value van de variable herder.
+20.	Problemen die je krijgt door werken met oudere code, wat vanwege updates niet meer efficient is misschien zelfs niet meer werkt.
+21.	A - 3
+	B - 1
+	C - 2
+22.	Nee, het declareert een variable zonder value of datatype. Het kan later niet een value gegeven worden, dus het is nutteloos.
+23.	Ja, het declareert een variable zonder value of datatype. Het kan later wel een value gegeven worden.
+24.	Symbolen die worden gebruikt om bepaalde dingen te laten gebeuren, bijvoorbeeld * voor vermenigvuldigen of = om een variable een value te geven.
+25.	Met = definieer je een variable, met == vergelijk je een variable met een value om te checken of ze gelijk zijn.
+26.	20
+27.	75
+28.	false
+29.	-10
+30.	false
+31.	false
+32.	true
+33.	-10
+34.	6
+35.	75
+36.	6
+37.	Vergelijkbaar met rekenvolgorde, geeft de prioriteit en dus volgorde van operators. in "10 + 5 * 2" wordt "5 * 2" eerder uitgevoerd.
+38.	11
+39.	14
+40.	conditional

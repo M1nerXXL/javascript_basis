@@ -1,0 +1,46 @@
+1.	Strict Mode zorgt ervoor dat de browser iets strenger is over de code, waardoor fouten die normaal door de vingers gezien zouden worden toch errors geven.
+2.	Aan het begin.
+3.	Om bugs te voorkomen, omdat elke error wordt aangegeven.
+4.	Een function is een lijn code die wat uitvoert. Dit kan bijvoorbeeld console.log() zijn, of een die je zelf aanmaakt.
+5.	Een variable is een expression die aangepast en gebruikt kan worden, een function is code dat iets uitvoert en gebruik kan maken van variables.
+6.	De function body is de code die wordt uitgevoerd wanneer de function wordt geroepen.
+	
+	function example (){
+		console.log("It works!");
+	}
+
+	De console.log(); is deel van de function body hier.
+7.	1B, 2C, 3D, 4D, 5E, 6A
+8.	Niets.
+9.	Cheese
+10.	Cheese
+	Cheese
+11.	Je krijgt 3 knuffels van mij <3
+12.	Je krijgt 12 knuffels van mij <3
+13.	Je krijgt 1 knuffel van mij <3
+14.	Je krijgt 12 knuffels van mij <3
+15.	Je krijgt 12 knuffels van mij <3
+	extra knuffels!
+16.	Je krijgt 12 knuffels van mij <3
+17.	4
+18.	4
+19.	4
+	4
+20.	8
+21.	32
+22.	Als er nog een functie wordt uitgevoerd erin die een resultaat geeft, of als er een "return" lijn wordt uitgevoerd.
+23.	undefined
+24.	Een function declaration is een function die wordt aangemaakt, en bij de function expression wordt het als expression in een variable gestopt.
+25.	de parameters zijn de variables in een function, en de arguments zijn de values in de parameters.
+26.	Een function in in één lijn geschreven kan worden door middel van =>
+27.	omdat er een arrow => in zit.
+28.	Werd niet uigelegd in de video.
+29.	5
+30.	8
+31.	34
+32.	Henk works as a Teacher and Henk is very happy
+33.	Frits works as a Developer Frits and is very happy
+34.	Henk works as a Teacher and Henk is very undefined
+35.	Probeer zo min mogelijk code te herhalen. Als je een bepaalde berekening moet doen bij meerdere getallen, is het handig om die hele brekening in een function te zetten en de variables daarin te zetten.
+36.	return zet het resultaat van een expression terug aan de functie die de return had uitgevoerd.
+37.	De return stopt de code in de function. De console.log wordt dus nooit uitgevoerd en er gebeurt niks.

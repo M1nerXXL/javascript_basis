@@ -1,0 +1,9 @@
+1.	Een String is een stuk text opgeslagen in een variable.
+2.	+
+3.	Jorn is stupid
+4.	Jorn is briljant
+5.	Hello Jorn
+6.	de " tussen "I" en "am" hoort een spatie te zijn.
+7.	boolean
+8.	Iets waarmee je kan bepalen welke stukken code worden uitgevoerd op welke manier.
+9.	Met een if-else-statement kan je onder bepaalde voorwaarden bepalen of een stuk code word uitgevoerd of niet.
