@@ -1,0 +1,81 @@
+3.	0
+	1
+	2
+	3
+4.	0
+	0
+	1
+	2
+	2
+	4
+	3
+	6
+	4
+	8
+5.	0
+	2
+	4
+6.	
+7.	2
+	3
+8.	2
+	1
+	0
+9.	0
+	3
+	6
+	9
+	12
+10.	Koe
+	Herder
+11.	Koe
+	Herder
+	undefined
+	undefined
+	undefined
+13.	Stopt met het uitvoeren van de code in de loop, voert de updade uit en start opnieuw.
+14.	Stopt met de volledige loop en gaat door met de code na de for-loop.
+15.	Een for-loop gaat een bepaald aantal keer door gebasseerd op de value die de condition geeft en die condition wordt steeds geupdate. Een while-loop gaat door tot een expression "false" returned.
+	for-loops zijn handig wanneer je iets een bepaald aantal keer wilt herhalen terwijl een while-loop goed uitkomt als je iets wilt loopen totdat een bepaalde condition niet meer true is.
+16.	Let's start part 1!
+	Working on subpart 1!
+	Working on subpart 2!
+	Working on subpart 3!
+	Working on subpart 4!
+	Working on subpart 5!
+
+	Let's start part 2!
+	Working on subpart 1!
+	Working on subpart 2!
+	Working on subpart 3!
+	Working on subpart 4!
+	Working on subpart 5!
+
+	Let's start part 3!
+	Working on subpart 1!
+	Working on subpart 2!
+	Working on subpart 3!
+	Working on subpart 4!
+	Working on subpart 5!
+17.	Ik tel tot 10
+	Ik tel tot 9
+	Ik tel tot 8
+	Ik tel tot 7
+	Ik tel tot 6
+	Ik tel tot 5
+	Ik tel tot 4
+	Ik tel tot 3
+	Ik tel tot 2
+	Ik tel tot 1
+	Ik tel tot 0
+18.	Ik tel tot 10
+	Ik tel tot 9
+	Ik tel tot 8
+	Ik tel tot 7
+	Ik tel tot 6
+	Ik tel tot 5
+	Ik tel tot 4
+	Ik tel tot 3
+	Ik tel tot 2
+	Ik tel tot 1
+	Ik tel tot 0

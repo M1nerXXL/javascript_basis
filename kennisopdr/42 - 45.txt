@@ -1,0 +1,21 @@
+1.	Een array is een lijst van elements en een object heeft verschillende elements die allemaal properties zijn van de variable.
+2.	Een soort index voor de verschillende values in een object.
+3.	Een value is een element die aan een key vast zit.
+4.	De combinatie van een key en zijn element.
+5.	Properties zijn eigenschappen, zoals de length van een array. Keys in een object horen hier ook bij.
+6.	A. variable, B. key, C. value, D. function, E. object literal
+7.	Bij een dot notation kan je alleen een property neerzetten, bij een bracket notation kan je een expression neerzetten.
+8.	Henk Henk
+9.	de Vries
+10.	undefined
+11.	undefined
+12.	Hello
+13.	true
+14.	Henk de Vries
+15.	ƒ (){
+        	return `${this.firstName} ${this.lastName}`;
+    	}
+16.	Henk de Vries
+17.	23
+18.	23
+	23

@@ -1,0 +1,15 @@
+1.	Document Object Model
+2.	Het aanpassen van de HTML en/of CSS via JS
+3.	Het moment dat de pagina wordt geladen
+4.	Het is een Application Programming Interface, een library die geschreven is in JS en gebruikt kan worden.
+5.	Selecteert een element met een bepaalde class of ID
+6.	querySelector selecteert de eerste element die voldoet, querySelectorAll selecteert alle elements die voldoen.
+7.	A7
+8.	A6 is een prachtige snelweg
+9.	g.textContent is een prachtige snelweg
+10.	NaN
+11.	A6A6
+12.	A6A6A3
+13.	Iets wat gebeurt op de webpagina, zoals click of mousedown
+14.	document.querySelector('.check').addEventListener('click', function () {});
+15.	document.querySelector('body').style.backgroundColor = '#000000'	
