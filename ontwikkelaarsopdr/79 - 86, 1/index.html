@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="resources/css/style.css" />
+  </head>
+  <body>
+    <!-- Game -->
+    <div class="grid-container">
+      <div class="grid-container__item grid-container__item-score">
+        Score: 0
+      </div>
+      <div class="grid-container__item grid-container__item-number-1">0</div>
+      <div class="grid-container__item grid-container__item-operator">+</div>
+      <div class="grid-container__item grid-container__item-number-2">0</div>
+      <div class="grid-container__item grid-container__item-answer">
+        <input
+          class="grid-container__item-answer__item grid-container__item-answer__item-input"
+          type="number"
+          name="answer"
+        />
+        <button
+          class="grid-container__item-answer__item grid-container__item-answer__item-submit"
+        >
+          Submit
+        </button>
+      </div>
+    </div>
+    <!-- Modal -->
+    <div class="modal hidden">
+      <div class="modal__item modal__item-background"></div>
+      <div class="modal__item modal__item-window">
+        <h1 class="modal__item-window__item modal__item-window__item-header">
+          Congratulations!
+        </h1>
+        <p class="modal__item-window__item modal__item-window__item-text">
+          0 right answers<br />0 wrong answers<br />in 0 seconds
+        </p>
+        <button class="modal__item-window__item modal__item-window__item-retry">
+          Try again
+        </button>
+      </div>
+    </div>
+    <script src="resources/js/script.js"></script>
+  </body>
+</html>

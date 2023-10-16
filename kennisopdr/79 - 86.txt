@@ -1,0 +1,6 @@
+1.	Een pop-up in de webpage.
+2.	Een event dat zich niet plaats hoeft te vinden op een bepaald element.
+3.	Het indrukken van een toets op het toetsenbord.
+4.	De code checkt of een toets wordt ingedrukt, en geeft de informatie over dat event in de console.
+5.	De code checkt of een toets wordt ingedrukt. Dan kijkt het of die toets de keycode 27 had (esc), en als de modal dan open is, wordt het gesloten.
+6.	Een event object is een object die wordt gecreëerd wanneer een event zich plaats vind en wordt gedetecteerd door een event listener. Dit kan gebruikt worden om bijvoorbeeld te zien welke toets is ingedrukt.
